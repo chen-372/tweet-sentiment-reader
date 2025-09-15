@@ -1,0 +1,18 @@
+{
+  "max_len": 48,
+  "labels": {
+    "negative": 0,
+    "positive": 1
+  },
+  "config": {
+    "seed": 42,
+    "max_vocab": 20000,
+    "max_len": 48,
+    "embedding_dim": 128,
+    "lstm_units": 128,
+    "batch_size": 32,
+    "epochs": 10,
+    "val_split": 0.2,
+    "patience": 2
+  }
+}

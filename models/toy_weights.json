@@ -1,0 +1,26 @@
+{
+  "pos": [
+    "love",
+    "great",
+    "good",
+    "happy",
+    "wonderful",
+    "amazing",
+    "best",
+    "excited",
+    "spectacular",
+    "recommend"
+  ],
+  "neg": [
+    "hate",
+    "bad",
+    "sad",
+    "terrible",
+    "awful",
+    "worst",
+    "disappointed",
+    "furious",
+    "broken",
+    "bland"
+  ]
+}
